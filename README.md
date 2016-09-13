@@ -3,8 +3,6 @@ A mp3 tag editor that is compatible with ID3, APE, Vorbis
 
 http://wiki.slimdevices.com/index.php/Beginners_Guide_To_Tagging
 
-if you aren't sure why your player isnt updating the tags after you change them you should remove all of the tag types because different players look for each tag first.To find CD info from an internet database (freedb, cddb) 
-
 Databases:
 http://www.midomi.com/, http://audiotag.info/index.php, http://whatzatsong.com/, http://echoprint.me/, https://musicbrainz.org/, http://discogs.com/, http://freedb.org/, https://en.wikipedia.org/wiki/List_of_online_music_databases
 
@@ -13,8 +11,10 @@ https://www.genius.com , https://www.musixmatch.com/
 
 fingerprinting:
 https://www.quora.com/Is-there-an-API-for-Shazam-or-SoundHound
+https://www.quora.com/Is-there-an-API-for-Shazam-or-SoundHound
 
 
+if you aren't sure why your player isnt updating the tags after you change them you should remove all of the tag types because different players look for each tag first.To find CD info from an internet database (freedb, cddb) 
 
 To determine which type of tag you need read below then when choose which tag type fits your player.
 Tag types
